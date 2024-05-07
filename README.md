@@ -3,10 +3,10 @@ Discord Friend Spammer with multiple threads , and using undetected captcha solv
 Enjoy using it . 🚀
 
 # Setup 
-1- just download python 
-2- install required libs 
-3- fill the values that need to be filled in main.py ( Proxy , FCapKey ) , add your tokens in tokens.txt 
-* then run main.py normally *
+* just download python 
+* install required libs 
+* fill the values that need to be filled in main.py ( Proxy , FCapKey ) , add your tokens in tokens.txt 
+* then run main.py normally 
 
 # Preview 
 ![image](https://github.com/Exploited7/discord-friend-spammer/assets/143853197/0d047f81-33be-4c11-a7ad-d438a44d6e86)
